@@ -15,7 +15,7 @@ Meu foco principal é em **arquitetura e desenvolvimento backend**, com uma base
 - **Frontend**
   - Angular, React
 - **Bancos de Dados**
-  - MySQL, Oracle, PostgreSQL  
+  - SQL e NoSQL 
   - Modelagem de dados, criação de dicionários de dados e otimização de consultas
 - **Integração & Arquitetura**
   - APIs REST e SOAP  
